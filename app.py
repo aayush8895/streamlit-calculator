@@ -13,7 +13,7 @@ def calculator (n1, n2, operation):
         return n1 / n2
 
 
-st.title("Simple calculator V3")
+st.title("Simple calculator V4")
 
 number1 = st.number_input("Enter First number", value = 0.0)
 number2 = st.number_input("Enter Second number", value = 0.0)
